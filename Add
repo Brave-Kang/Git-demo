@@ -5,7 +5,7 @@ int main()
 {
   int a = 0;
   int b = 0;
-  cout << "Please input two value for a & b" << endl;
+  cout << "========== Please input two value for a & b ==========" << endl;
   cin >> a >> b;
   cout << a+b << endl;
   return 0;
